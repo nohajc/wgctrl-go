@@ -2,6 +2,6 @@
 
 package wguser
 
-func alt_sock_paths() ([]string, error) {
+func altSockPaths() ([]string, error) {
 	return nil, nil
 }
